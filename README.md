@@ -23,7 +23,7 @@ Rule 1 states that a failure to maintain automatic sprinklers and an egress for 
 
 The below graphs shows the network with edge thickness displayed and a cluster related to safety for January 2015:
 
-https://cloud.githubusercontent.com/assets/11237613/17185540/7f5db1f4-53ff-11e6-9ca6-8516da6e82bc.png
+![alt tag](https://cloud.githubusercontent.com/assets/11237613/17185540/7f5db1f4-53ff-11e6-9ca6-8516da6e82bc.png)
 
 https://cloud.githubusercontent.com/assets/11237613/17185549/85dc6ebc-53ff-11e6-9690-41d62e1edaf5.png
 
