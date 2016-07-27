@@ -20,7 +20,8 @@ Rule 2: Confidence: 0.91 Support: 0.0065
 Rule 1 states that a failure to maintain automatic sprinklers and an egress for every door predicts illegal activity. This rule has an accuracy of 92% and frequency of 0.347%. Rule 2 states that the conversion of a 1 or 2 family home and unlawful acts predicts work without a permit. 
 
 
+
 Social Network Analysis
 
-The below graphs shows the network with edge thickness displayed and a cluster related to safety for January 2015
+The below graphs shows the network with edge thickness displayed and a cluster related to safety for January 2015:
 
