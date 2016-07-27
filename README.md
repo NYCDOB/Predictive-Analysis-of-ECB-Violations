@@ -4,7 +4,7 @@ Predictive analysis on 5 years of DOB ECB Violations, 2010-2015. Methods include
 
 #Results
 
-Market Basket Analysis:
+#Market Basket Analysis:
 The analysis produced over 200 association rules, below are two that were most interesting:
 
 Rule 1: Confidence: 0.92 Support: 0.00347 
@@ -21,7 +21,7 @@ Rule 1 states that a failure to maintain automatic sprinklers and an egress for 
 
 
 
-Social Network Analysis
+#Social Network Analysis
 
 The below graphs shows the network with edge thickness displayed and a cluster related to safety for January 2015:
 
