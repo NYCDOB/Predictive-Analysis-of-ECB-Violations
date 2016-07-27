@@ -1,6 +1,6 @@
 # Predictive-Analysis-of-ECB-Violations
 
-Predictive analysis on 5 years of DOB ECB Violations, 2010-2015. Methods included market basket and social network analysis. Results and description of the project are in the memo. The Ipython notebook is used for data cleaning and creating output to interpret data, the R script is for market basket modelling.
+Predictive analysis on 5 years of DOB ECB Violations, 2010-2015. Methods included market basket and social network analysis. Results and description of the project are in the above memo. The Ipython notebook is used for data cleaning and creating output to interpret data, the R script is for market basket modelling.
 
 #Market Basket Analysis
 The analysis produced over 200 association rules, below are two that were most interesting:
@@ -21,10 +21,19 @@ Rule 1 states that a failure to maintain automatic sprinklers and an egress for 
 
 #Social Network Analysis
 
-The below graphs shows the network with edge thickness displayed and a cluster related to safety for January 2015:
+The below graphs shows the network with edge thickness displayed and a cluster related to safety for January 2015. The January results show strong ties between 4 pairs of violations, these pairs of violations have very thick edge widths.
+
 
 ![alt tag](https://cloud.githubusercontent.com/assets/11237613/17185540/7f5db1f4-53ff-11e6-9ca6-8516da6e82bc.png)
 
+
+Three clusters can be identified in the network – one in the center and two on the left. 
+
+
+
+The cluster pictured above is a sub-cluster of the center cluster and is of interest because it is related to safety. It is composed of violations 210: Failure to Provide Documents at Construction Site, 115: Failure to Maintain Safety Equipment, 182: Work Not Conforming to Documents, 109: Failure to Safeguard Persons and 181: Failure to Maintain Housekeeping. 
+
 ![alt tag](https://cloud.githubusercontent.com/assets/11237613/17185549/85dc6ebc-53ff-11e6-9690-41d62e1edaf5.png)
+
 
 
