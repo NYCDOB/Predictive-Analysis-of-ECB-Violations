@@ -27,7 +27,7 @@ The below graphs shows the network with edge thickness displayed and a cluster r
 ![alt tag](https://cloud.githubusercontent.com/assets/11237613/17185540/7f5db1f4-53ff-11e6-9ca6-8516da6e82bc.png)
 
 
-Three clusters can be identified in the network – one in the center and two on the left. 
+Three clusters can be identified in the network – two toward the left and one in the center. 
 
 ![alt tag](https://cloud.githubusercontent.com/assets/11237613/17186089/c608a198-5401-11e6-8f2b-2d7beeb1426a.png)
 
