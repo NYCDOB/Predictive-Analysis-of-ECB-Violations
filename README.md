@@ -29,7 +29,7 @@ The below graphs shows the network with edge thickness displayed and a cluster r
 
 Three clusters can be identified in the network – one in the center and two on the left. 
 
-https://cloud.githubusercontent.com/assets/11237613/17186089/c608a198-5401-11e6-8f2b-2d7beeb1426a.png
+![alt tag](https://cloud.githubusercontent.com/assets/11237613/17186089/c608a198-5401-11e6-8f2b-2d7beeb1426a.png)
 
 The cluster pictured below is a sub-cluster of the center cluster and is of interest because it is related to safety. It is composed of violations 210: Failure to Provide Documents at Construction Site, 115: Failure to Maintain Safety Equipment, 182: Work Not Conforming to Documents, 109: Failure to Safeguard Persons and 181: Failure to Maintain Housekeeping. 
 
